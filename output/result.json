@@ -1,0 +1,73 @@
+[
+  {
+    "fayl_nom": "001.txt",
+    "yigindi": 500,
+    "sonlar": [
+      500
+    ]
+  },
+  {
+    "fayl_nom": "002.txt",
+    "yigindi": 200,
+    "sonlar": [
+      200
+    ]
+  },
+  {
+    "fayl_nom": "003.txt",
+    "yigindi": 150,
+    "sonlar": [
+      150
+    ]
+  },
+  {
+    "fayl_nom": "004.txt",
+    "yigindi": 230,
+    "sonlar": [
+      200,
+      30
+    ]
+  },
+  {
+    "fayl_nom": "005.txt",
+    "yigindi": 250,
+    "sonlar": [
+      250
+    ]
+  },
+  {
+    "fayl_nom": "006.txt",
+    "yigindi": 300,
+    "sonlar": [
+      300
+    ]
+  },
+  {
+    "fayl_nom": "007.txt",
+    "yigindi": 300,
+    "sonlar": [
+      300
+    ]
+  },
+  {
+    "fayl_nom": "008.txt",
+    "yigindi": 150,
+    "sonlar": [
+      150
+    ]
+  },
+  {
+    "fayl_nom": "009.txt",
+    "yigindi": 240,
+    "sonlar": [
+      240
+    ]
+  },
+  {
+    "fayl_nom": "010.txt",
+    "yigindi": 500,
+    "sonlar": [
+      500
+    ]
+  }
+]
