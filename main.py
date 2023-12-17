@@ -74,7 +74,6 @@ if __name__ == "__main__":
 
     file_paths = get_file_paths(folder_path)
 
-    # Execute processes sequentially
     process1(file_paths, output_folder)
     process2(file_paths, output_folder)
     process3(file_paths, output_folder)
