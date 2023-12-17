@@ -2,3 +2,6 @@ descriotions folder dagi fayllar bilan ishlaydigan 3 ta process yarating 1-proce
 
 
 Natijalar "output nomli folderga yozildi"
+
+
+Qoshimcha: ("search.py" nomli file ni e'tiborsiz qoldirining belgilar orasidagi xatolikni topish uchun yozilgan kod ushbu task ga aloqasi yo'q)
